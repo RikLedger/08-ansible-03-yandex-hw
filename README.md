@@ -22,7 +22,7 @@
 
 Для выполнения ДЗ создал 3 виртуальные машины в Yandex.Cloud с использованием Terraform.
 
-Код Terraform доступен по ссылке: https://github.com/DemoniumBlack/fedorchukds-devops-33-18/tree/main/SRC/terraform
+Код Terraform доступен по ссылке: https://github.com/RikLedger/08-ansible-03-yandex-hw/tree/main/SRC/terraform%20
 
 ---
 
