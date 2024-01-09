@@ -46,4 +46,4 @@
 
 ![img_3.png](IMG/img_3.png)
 
-9. Подготовил README.md-файл по своему playbook. Ссылка: https://github.com/DemoniumBlack/fedorchukds-devops-33-18/blob/main/SRC/playbook/README.md
+9. Подготовил README.md-файл по своему playbook. Ссылка: https://github.com/RikLedger/08-ansible-03-yandex-hw/blob/main/SRC/playbook/README.md
